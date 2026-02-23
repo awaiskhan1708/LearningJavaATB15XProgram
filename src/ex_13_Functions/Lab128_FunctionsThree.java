@@ -6,6 +6,7 @@ public class Lab128_FunctionsThree {
     }
 
     static void non_return_function() {
+
         System.out.println("Print something no return or return type");
     }
 

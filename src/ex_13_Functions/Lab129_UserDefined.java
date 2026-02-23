@@ -15,7 +15,8 @@ public class Lab129_UserDefined {
 
     }
 
-    static int sum_two_numbers(int x,int y){
+    static int sum_two_numbers(int x,int y)
+    {
         return x+y;
     }
     static void sum_of_two_number(){
